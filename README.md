@@ -63,10 +63,3 @@ Key Goals:
 <br>
 <br>
 <br>
-
-
-# 📬 Contact
-- **Developer**: Məhəmməd Qardaşov
-- **Email**: mehemmed.qardasov2003@gmail.com
-- **GitHub**: https://github.com/MehemmedQ2003
-- **LinkedIn**: https://www.linkedin.com/in/mehemmed-qardasov-6ba49a235/
